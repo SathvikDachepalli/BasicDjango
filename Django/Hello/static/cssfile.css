@@ -1,0 +1,5 @@
+div .carousel img {
+    height: 700px !important;
+    maxwidth:100% !important;
+    object-fit:cover;
+}
